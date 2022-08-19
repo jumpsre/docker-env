@@ -17,5 +17,5 @@ wget https://raw.githubusercontent.com/0xSRE/docker-env/main/docker-env-install.
 * install
 
 ```bash
-bash docker-env-install.sh
+bash docker-env-install.sh install
 ```
