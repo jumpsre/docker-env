@@ -11,6 +11,7 @@ The script is used to auto install sui full node.
 * download scripts
 
 ```bash
+wget https://raw.githubusercontent.com/0xSRE/docker-env/main/docker-env-install.sh
 ```
 
 * install
